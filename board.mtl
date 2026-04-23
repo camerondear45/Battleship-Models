@@ -1,0 +1,9 @@
+# board material file
+
+newmtl Board_Grey
+Ka 0.180 0.180 0.180
+Kd 0.700 0.710 0.730
+Ks 0.080 0.080 0.080
+Ns 20.0
+d 1.0
+illum 2
